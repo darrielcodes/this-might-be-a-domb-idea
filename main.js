@@ -7,6 +7,7 @@ heading.style.fontSize = '48px';
 
 let item13 = document.querySelector('#item-13');
 item13.style.color = 'rgba(0, 0, 0, 0.5)'
+// OR item13.style.opacity = "0.5";
 
 let item3 = document.querySelector('#item-3');
 item3.innerText = "I say, ''Hi!''";
